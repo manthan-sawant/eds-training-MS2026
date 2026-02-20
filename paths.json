@@ -1,8 +1,10 @@
 {
-  "mappings": [
-    "/content/aem-boilerplate/:/"
-  ],
-  "includes": [
-    "/content/aem-boilerplate/"
-  ]
+  "mappings": [
+    "/content/eds-training-MS2026/:/",
+    "/content/eds-training-MS2026/configuration:/.helix/config.json",
+    "/content/eds-training-MS2026/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/eds-training-MS2026/"
+  ]
 }
